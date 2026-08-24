@@ -6,3 +6,6 @@ q1
 
 q2
 ![alt text](image-1.png)
+
+q3
+![alt text](image-2.png)
