@@ -1,0 +1,108 @@
+ *{
+            margin: 0;
+            box-sizing: border-box;
+            
+        }
+        main{
+            margin-top: 48px;
+        }
+        nav{
+            background-color: #3e2723;
+            color: white;
+            text-align: center;
+            padding: 40px;
+      
+        }
+        nav a{
+                  color: white;
+            font-size: 18px;
+            text-decoration: none;
+        }
+        body{
+              background-color: #9edba3;
+        }
+.container{
+            background-color: #9edba3;
+            
+           /* background-color: #f3e5f5; */
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            flex-wrap:wrap ;
+            
+        }
+        .box{
+            width: 250px;
+    background-color: #f2ccf8; 
+    border: 1px solid #444141;
+            margin:24px ;
+            border-radius: 12px;
+            box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+        }
+        img{
+            width: 100%;
+            background-color: cadetblue;
+            border-radius: 12px 12px  0 0;
+        }
+        h3{
+            margin: 12px;
+            font-size: 24px; 
+            font-weight: 600;
+            letter-spacing: 1px;
+
+        }
+        p{
+            font-size: 17px;
+            margin: 8px 0;
+            color: rgb(28, 26, 26);
+        }
+        .box6 img{
+            height: 212px;
+            order: 4;
+
+        }
+        .box5 img{
+            height: 212px;
+              order: 1;
+
+        }
+        .box4 img{
+            height: 212px;
+
+        }
+        span{
+            font-size: 19px;
+            margin: 12px;
+            color: red;
+            font-weight: 600;
+            display: inline-block;
+
+
+        }
+        @media (max-width :820px){
+            .container{
+            background-color: #a5e3f6;
+            
+           /* background-color: #f3e5f5; */
+            width: 100%;
+            display: flex;
+            justify-content: space-evenly;
+            align-items: center;
+            /* flex-direction: column; */
+            
+        }
+         main{
+            margin-top: 0px;
+        }
+
+        .box{
+            width: 250px;
+    background-color: #f2ccf8; 
+    border: 1px solid #444141;
+            margin:16px ;
+            border-radius: 12px;
+            box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+        }
+
+        }

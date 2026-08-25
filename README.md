@@ -30,3 +30,10 @@ q8
 
 q9
 ![alt text](image-12.png)
+
+q10
+![alt text](image-13.png)
+
+q11
+![alt text](image-14.png)
+![alt text](image-15.png)
