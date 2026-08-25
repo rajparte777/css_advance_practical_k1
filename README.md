@@ -23,4 +23,7 @@ q6
 
 q7
 ![alt text](image-8.png)
-![alt text](image-9.png)
+![alt text](image-10.png)
+
+q8
+![alt text](image-11.png)
