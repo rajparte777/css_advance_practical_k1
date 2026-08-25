@@ -15,3 +15,8 @@ q4
 
 q5
 ![alt text](image-4.png)
+
+q6
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
