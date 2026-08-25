@@ -9,3 +9,6 @@ q2
 
 q3
 ![alt text](image-2.png)
+
+q4
+![alt text](image-3.png)
